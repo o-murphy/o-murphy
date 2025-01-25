@@ -13,11 +13,9 @@ I am a passionate developer with a love for creating innovative solutions. I enj
 - **Tools:** Git, Docker
 <!-- - **Databases:** MySQL, PostgreSQL, MongoDB -->
 
-<!--
 ## 📈 GitHub Stats
 
 ![O Murphy's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-murphy&show_icons=true&theme=radical)
--->
 
 ## 🔗 Connect with Me
 
