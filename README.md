@@ -15,7 +15,7 @@ I am a passionate developer with a love for creating innovative solutions. I enj
 
 ## 📈 GitHub Stats
 
-![O Murphy's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-murphy&show_icons=true&theme=radical)
+![O Murphy's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-murphy&show_icons=true&theme=radical&custom_title=O-Murphy%27s%20Github%20Stats)
 
 ## 🔗 Connect with Me
 
