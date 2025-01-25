@@ -2,7 +2,7 @@
 <!-- [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua) -->
 
 
-# Hi there, I'm O Murphy! 👋
+# Hi there, I'm Murphy! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=o-murphy&color=blue&style=flat-square)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg?style=flat-square)](https://stand-with-ukraine.pp.ua)
