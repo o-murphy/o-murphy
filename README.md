@@ -31,9 +31,9 @@ Feel free to reach out to me at thehelixpg@gmail.com for any collaboration or pr
 
 Here are some of my favorite projects:
 
-- [Project 1](https://github.com/o-murphy/py-ballisticcalc): LGPL library for small arms ballistic calculations based on point-mass (3 DoF) plus spin drift.
-- [Project 2](https://github.com/o-murphy/js-ballistics): ISC library for small arms ballistic calculations based on point-mass (3 DoF) plus spin drift.
-- [Project 3](https://github.com/o-murphy/pydfuutil): PyDfuUtil - Pure python realisation of dfu-util wrappers to libusb
+- [py-ballisticcalc](https://github.com/o-murphy/py-ballisticcalc): LGPL library for small arms ballistic calculations based on point-mass (3 DoF) plus spin drift.
+- [js-ballistics](https://github.com/o-murphy/js-ballistics): ISC library for small arms ballistic calculations based on point-mass (3 DoF) plus spin drift.
+- [pydfuutil](https://github.com/o-murphy/pydfuutil): PyDfuUtil - Pure python realisation of dfu-util wrappers to libusb
 
 <!-- ## 🌱 Currently Learning
 
