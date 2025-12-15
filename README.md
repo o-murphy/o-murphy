@@ -13,7 +13,7 @@ I am a passionate developer with a love for creating innovative solutions. I enj
 
 ## 🛠 Skills
 
-- **Languages:** Python, Micropython, JavaScript, TypeScript, Go
+- **Languages:** Python, Micropython, JavaScript, TypeScript, Go, C++
 - **Frameworks:** React, Node.js, Django, PyQt, Kivy
 - **Tools:** Git, Docker
 <!-- - **Databases:** MySQL, PostgreSQL, MongoDB -->
