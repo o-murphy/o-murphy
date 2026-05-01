@@ -13,8 +13,8 @@ I am a passionate developer with a love for creating innovative solutions. I enj
 
 ## 🛠 Skills
 
-- **Languages:** Python, Micropython, JavaScript, TypeScript, Go, C++
-- **Frameworks:** React, Node.js, Django, PyQt, Kivy
+- **Languages:** Python, C++, JavaScript, TypeScript, Go, Dart
+- **Frameworks:** React, PyQt, Kivy, Flutter
 - **Tools:** Git, Docker
 <!-- - **Databases:** MySQL, PostgreSQL, MongoDB -->
 
@@ -36,9 +36,12 @@ Feel free to reach out to me at thehelixpg@gmail.com for any collaboration or pr
 
 Here are some of my favorite projects:
 
-- [py-ballisticcalc](https://github.com/o-murphy/py-ballisticcalc): LGPL library for small arms ballistic calculations based on point-mass (3 DoF) plus spin drift.
-- [js-ballistics](https://github.com/o-murphy/js-ballistics): ISC library for small arms ballistic calculations based on point-mass (3 DoF) plus spin drift.
-- [pydfuutil](https://github.com/o-murphy/pydfuutil): PyDfuUtil - Pure python realisation of dfu-util wrappers to libusb
+- **[Ballistics-lab](https://github.com/ballistics-lab)** - Ballistic calculation tools within a single open-source ecosystem.
+  - [bclibc](https://github.com/ballistics-lab/bclibc): — LGPL-licensed pure C++/C-FFI ballistic engine.
+  - [py-ballisticcalc](https://github.com/o-murphy/py-ballisticcalc): — LGPL library for small arms ballistics using point-mass (3 DoF) model with spin drift.
+  - [js-ballistics](https://github.com/o-murphy/js-ballistics): — ISC-licensed library for small arms ballistics using point-mass (3 DoF) model with spin drift.
+  - [eBalistyka](https://github.com/o-murphy/ebalistyka-app): GPL-licensed Cross-platform ballistic calculator built with Flutter.
+- **[pydfuutil](https://github.com/o-murphy/pydfuutil)**: Pure Python implementation of dfu-util wrappers around libusb.
 
 <!-- ## 🌱 Currently Learning
 
