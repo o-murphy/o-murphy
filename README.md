@@ -18,15 +18,16 @@ I am a passionate developer with a love for creating innovative solutions. I enj
 - **Tools:** Git, Docker
 <!-- - **Databases:** MySQL, PostgreSQL, MongoDB -->
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 ![O Murphy's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-murphy&show_icons=true&theme=radical&custom_title=O-Murphy%27s%20Github%20Stats)
+-->
 
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/o--murphy/)
 <!-- - [Twitter](https://twitter.com/o-murphy) -->
-- [Personal Website](https://portfolio.o-murphy.net)
+- [Personal Website](https://o-murphy.net)
 
 ## 📧 Contact Me
 
