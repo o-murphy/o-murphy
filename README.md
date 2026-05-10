@@ -6,8 +6,15 @@
 
 ## 🚀 About Me
 
-I am a passionate developer with a love for creating innovative solutions.
-I enjoy working on both front-end and back-end projects, and I am always eager to learn new technologies and improve my skills.
+Based in Kyiv, Ukraine. Passionate about building sustainable and scalable systems.
+
+Creator of the leading open-source ballistics project — a 3-DOF + spin-drift ballistic solver with extensive customization features.
+
+Experienced in cross-platform development and cross-language integration (Cython, WASM, C++). Author of [ebalistyka] (Ballistic Calculator built with Flutter), [bclibc] (high performance C++ ballistic calculation engine), and [pydfuutil] (Python DFU utility wrapper).
+
+Former Telematics Specialist, currently working with IoT solutions.
+
+Always eager to learn new technologies and deliver innovative solutions.
 
 ## 🛠 Skills
 
@@ -22,7 +29,7 @@ I enjoy working on both front-end and back-end projects, and I am always eager t
 
 ## 📧 Contact Me
 
-Feel free to reach out to me at **[GMail]** for any collaboration or project ideas!
+Feel free to reach out to me at **[Mail]** for any collaboration or project ideas!
 
 ## 📂 Repositories
 
@@ -45,11 +52,11 @@ Thank you for visiting my profile!
 
 [LinkedIn]: https://www.linkedin.com/in/o--murphy/
 [Personal Website]: https://o-murphy.net
-[GMail]: mailto:thehelixpg@gmail.com?subject=%5BGitHub%20Profile%5D%20Contact
+[Mail]: mailto:thehelixpg@gmail.com?subject=%5BGitHub%20Profile%5D%20Contact
 
 [Ballistics-lab]: https://github.com/ballistics-lab
 [bclibc]: https://github.com/ballistics-lab/bclibc
-[py-ballisticcalc]: https://github.com/o-murphy/py-ballisticcalc
+[py-ballisticcalc]: [https://github.com/o-murphy/py-ballisticcalc](http://o-murphy.github.io/py-ballisticcalc)
 [js-ballistics]: https://github.com/o-murphy/js-ballistics
 [eBalistyka]: https://github.com/o-murphy/ebalistyka-app
 [pydfuutil]: https://github.com/o-murphy/pydfuutil
