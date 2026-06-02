@@ -19,7 +19,7 @@ Always eager to learn new technologies and deliver innovative solutions.
 ## 🛠 Skills
 
 - **Languages:** Python, C++, TypeScript, Dart, Go
-- **Frameworks:** PyQt, React, Flutter, Kivy
+- **Frameworks:** PyQt, React Native, Flutter
 - **Tools:** Git, Docker
 
 ## 🔗 Connect with Me
