@@ -8,9 +8,9 @@
 
 Based in Kyiv, Ukraine. Passionate about building sustainable and scalable systems.
 
-Creator of the leading [open-source ballistics project][py-ballisticcalc] — a 3-DOF + spin-drift ballistic solver with extensive customization features.
+Creator of [Ballistics Lab][Ballistics-lab] — an open-source ecosystem for small-arms exterior ballistics, with one C++/C99 physics core (3-DOF + spin drift) exposed natively to Python, TypeScript, Dart, and MicroPython, as well as a cross-platform Flutter app.
 
-Experienced in cross-platform development and cross-language integration (Cython, WASM, C++). Author of [ebalistyka] (Ballistic Calculator built with Flutter), [bclibc] (high performance C++ ballistic calculation engine), and [pydfuutil] (Python DFU utility wrapper).
+Experienced in cross-platform development and cross-language integration (Cython, WASM, FFI). Author of [pydfuutil] (a Python DFU utility wrapper) and [py-aiowialon] (an async Python wrapper for the Wialon Remote API).
 
 Former Telematics Specialist, currently working with IoT solutions.
 
@@ -60,3 +60,4 @@ Thank you for visiting my profile!
 [js-ballistics]: https://github.com/o-murphy/js-ballistics
 [eBalistyka]: https://github.com/o-murphy/ebalistyka-app
 [pydfuutil]: https://github.com/o-murphy/pydfuutil
+[py-aiowialon]: https://github.com/o-murphy/py-aiowialon
