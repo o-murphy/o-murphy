@@ -39,6 +39,7 @@ Here are some of my favorite projects:
   - [bclibc]: — LGPL-licensed pure C++/C-FFI ballistic engine.
   - [py-ballisticcalc]: — LGPL library for small arms ballistics using point-mass (3 DoF) model with spin drift.
   - [js-ballistics]: — ISC-licensed library for small arms ballistics using point-mass (3 DoF) model with spin drift.
+  - [dart-bclibc]: Thin, zero-copy Dart FFI wrapper around libbclibc_ffi, bundling the bclibc C++ source as a git submodule.
   - [eBalistyka]: GPL-licensed Cross-platform ballistic calculator built with Flutter.
 - **[pydfuutil]**: Pure Python implementation of dfu-util wrappers around libusb.
 
@@ -58,6 +59,7 @@ Thank you for visiting my profile!
 [bclibc]: https://github.com/ballistics-lab/bclibc
 [py-ballisticcalc]: http://o-murphy.github.io/py-ballisticcalc
 [js-ballistics]: https://github.com/o-murphy/js-ballistics
+[dart-bclibc]: https://github.com/o-murphy/dart-bclibc
 [eBalistyka]: https://github.com/o-murphy/ebalistyka-app
 [pydfuutil]: https://github.com/o-murphy/pydfuutil
 [py-aiowialon]: https://github.com/o-murphy/py-aiowialon
