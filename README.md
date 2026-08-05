@@ -4,6 +4,8 @@
 ![Profile Views]
 [![SWUBadge]][StandWisthUkraine]
 
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=o-murphy&include_all_commits=true&theme=radical)
+
 ## 🚀 About Me
 
 Based in Kyiv, Ukraine. Passionate about building sustainable and scalable systems.
