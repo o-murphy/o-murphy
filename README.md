@@ -26,7 +26,7 @@ Always eager to learn new technologies and deliver innovative solutions.
 
 ## 🔗 Connect with Me
 
-- **[LinkedIn]**
+<!-- - **[LinkedIn]** -->
 - **[Personal Website]**
 
 ## 📧 Contact Me
